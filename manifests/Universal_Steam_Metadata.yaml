@@ -6,3 +6,9 @@ Packages:
     PackageUrl: https://github.com/JosefNemec/PlayniteExtensions/releases/download/2.2/Universal_Steam_Metadata_2_20.pext
     Changelog:
       - Fixed description images sometimes don't displaying at correct aspect ratio
+  - Version: 2.21
+    RequiredApiVersion: 6.4.0
+    ReleaseDate: 2026-02-07
+    PackageUrl: https://github.com/JosefNemec/PlayniteExtensions/releases/download/2.2/Universal_Steam_Metadata_2_21.pext
+    Changelog:
+      - Metadata background matching improvements (by darklinkpower)
